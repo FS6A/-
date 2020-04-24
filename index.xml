@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://eu-gra.uploadfiles.io/get/i770zti6?token=d0086172db9d6dcaa36fc5d5b3c05245b03ba00715ac5fd6cc545dfc1362159356c103c00dbc800dd16f6829fc28b10997245d5ac533cf1c78ac201c94b560e4VShwQ1l44LqttPco9kkUbbhZ687Tb0DLLk6QkJdBrh7o0LgxQUCO63UTj0NPt5ulnoAt65IQffrxBzJTlJWKSsDwrEVpAjvANRgN6ZEzirUHco2i4Jnr0sjqgA0x2GpJk6D469L10ZwXwrKcE4KjOs1rTwAwnyXs%2BVcAPQzYJo4VI0vqSCQ6AY9%2F8Bww5kiuPzNqYtOY3ktGQk4iezZNp%2B3PDAMx%2FB1cJMqs0xMit8n4zGUN3RGjzV%2B6Mi2kFfMEWGlFaf6YWgTdkFwDE2e6FA%3D%3D</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.burbn.instagram1</string>
+				<key>bundle-version</key>
+				<string>134.0</string>
+				<key>kind</key>
+				<string>FS6</string>
+				<key>title</key>
+				<string>Ah__so1</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
